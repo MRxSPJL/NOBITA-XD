@@ -1,0 +1,2 @@
+import LADO
+LADO.menu()
